@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/100to_edu.png" alt="cento educacional logo"
+<img src=".github/assets/100to_edu.png" alt="cento educacional logo" />
 
 ## go-daemon-example
 
